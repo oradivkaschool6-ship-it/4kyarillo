@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(94, 16, 219);
+}
+
+p {
+    background-color: red;
+    padding: 5px;
+    color: #FFFFFF;
+    width: 300px;
+    text-align: center;
+
+}
+
+#sidebar {
+    width: 220px;
+    background-color: #111111;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    border-right: 2px solid red;
+    text-align: right;
+}
